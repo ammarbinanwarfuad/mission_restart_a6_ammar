@@ -16,7 +16,7 @@ html {
    ============================================ */
 
 .hero-banner {
-  background-image: url("./Assets/banner-image.png");
+  background-image: url("../Assets/banner-image.png");
   background-size: cover;
   background-position: center;
 }
